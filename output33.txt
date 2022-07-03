@@ -1,0 +1,5 @@
+Game is LOSS
+KTS   ID     FD   KD   LT
+-----------------------------------
+-----------------------------------
+Number of alive enemies    10
